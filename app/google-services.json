@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "424017955874",
+    "firebase_url": "https://hungpld1orderfoodserver.firebaseio.com",
+    "project_id": "hungpld1orderfoodserver",
+    "storage_bucket": "hungpld1orderfoodserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424017955874:android:c601a7fa0190d798244e7b",
+        "android_client_info": {
+          "package_name": "com.example.hungpld1_orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424017955874-c4d25fpdnimkkksf20ncdvf1tbplql97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDZgH_WrA4pcxs5NTV4-BvSSTi4bj85w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424017955874-c4d25fpdnimkkksf20ncdvf1tbplql97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424017955874:android:164afd12dd5c9b82244e7b",
+        "android_client_info": {
+          "package_name": "com.example.hungpld1_orderfood_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424017955874-c4d25fpdnimkkksf20ncdvf1tbplql97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDZgH_WrA4pcxs5NTV4-BvSSTi4bj85w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424017955874-c4d25fpdnimkkksf20ncdvf1tbplql97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
